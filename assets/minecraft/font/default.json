@@ -1,0 +1,14 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "cobblemon:font/types.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                "\uDB80\uDC00\uDB80\uDC01\uDB80\uDC02\uDB80\uDC03\uDB80\uDC04\uDB80\uDC05\uDB80\uDC06\uDB80\uDC07\uDB80\uDC08\uDB80\uDC09\uDB80\uDC0A\uDB80\uDC0B\uDB80\uDC0C\uDB80\uDC0D\uDB80\uDC0E\uDB80\uDC0F\uDB80\uDC10\uDB80\uDC11"
+            ]
+        },
+		{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_left.png","ascent":13,"height":166,"chars":["\ueff1"]},{"type":"bitmap","file":"minecraft:gui\/container\/brewing_guide_right.png","ascent":13,"height":166,"chars":["\ueff2"]}
+    ]
+}

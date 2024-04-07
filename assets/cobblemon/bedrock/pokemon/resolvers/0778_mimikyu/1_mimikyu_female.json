@@ -1,0 +1,20 @@
+{
+  "species": "cobblemon:mimikyu",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": [
+        "female"
+      ],
+      "model": "cobblemon:mimikyu_female.geo",
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_female.png"
+    },
+    {
+      "aspects": [
+        "female",
+        "shiny"
+      ],
+      "texture": "cobblemon:textures/pokemon/0778_mimikyu/mimikyu_female_shiny.png"
+    }
+  ]
+}

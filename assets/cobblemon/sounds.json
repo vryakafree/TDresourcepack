@@ -1,0 +1,346 @@
+{
+  "battle.pvn.default":{
+	  "sounds":[]
+  },
+  "battle.pvp.default":{
+     "sounds":[
+        {
+           "name":"cobblemon:battle/bdsp/trainer",
+           "stream":true,
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/bw/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/bw/battle_subway",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/colosseum/trainer",
+           "volume":0.45
+        },
+        {
+           "name":"cobblemon:battle/colosseum/chiper_peon",
+           "volume":0.45
+        },
+        {
+           "name":"cobblemon:battle/colosseum/friendly",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/dppt/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/frlg/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/gsc/trainer_johto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/gsc/trainer_kanto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/hgss/trainer_johto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/hgss/trainer_kanto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/lgpe/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/oras/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/courtyard",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/crystal",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/gateway",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/lagoon",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/magma",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/main_street",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/neon",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/stargazer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/sunny_park",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/sunset",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pbr/waterfall",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pla/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pla/warden",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/rby/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/rse/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sm/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/swsh/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/usum/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/xd/trainer",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/xd/battle_sim",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/xy/trainer",
+           "volume":0.3
+        }
+     ]
+  },
+  "battle.pvw.default":{
+     "sounds":[
+        {
+           "name":"cobblemon:battle/b2w2/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/bdsp/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/bw/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/bw/wild_rare",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/dppt/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/frlg/wild",
+           "volume":0.2
+        },
+        {
+           "name":"cobblemon:battle/gsc/wild_johto_day",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/gsc/wild_johto_night",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/gsc/wild_kanto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/hgss/wild_johto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/hgss/wild_kanto",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/lgpe/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/oras/wild",
+           "volume":0.25
+        },
+        {
+           "name":"cobblemon:battle/pla/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/pla/wild_alpha",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/rby/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/rse/wild",
+           "volume":0.25
+        },
+        {
+           "name":"cobblemon:battle/sm/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_1",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_2",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_3",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_4",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_5",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_6",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_7",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/sv/wild_8",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/swsh/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/usum/wild",
+           "volume":0.1
+        },
+        {
+           "name":"cobblemon:battle/xd/wild",
+           "volume":0.3
+        },
+        {
+           "name":"cobblemon:battle/xy/wild",
+           "volume":0.3
+        }
+     ]
+  },
+  
+  "slowpoke": {
+       "sounds": ["cobblemon:pokemon/slowpoke/slowpoke"]
+  },
+  "slowbro": {
+       "sounds": ["cobblemon:pokemon/slowbro/slowbro"]
+  },
+  "slowking": {
+       "sounds": ["cobblemon:pokemon/slowking/slowking"]
+  },
+  "megaslowbro": {
+       "sounds": ["cobblemon:pokemon/megaslowbro/megaslowbro"]
+  },
+  
+  "gastly": {
+       "sounds": ["cobblemon:pokemon/gastly/gastly"]
+  },
+  "haunter": {
+       "sounds": ["cobblemon:pokemon/haunter/haunter"]
+  },
+  "gengar": {
+       "sounds": ["cobblemon:pokemon/gengar/gengar"]
+  },
+  "gengarlaugh": {
+       "sounds": ["cobblemon:pokemon/gengar/gengarlaugh"]
+  },
+  "megagengar": {
+       "sounds": ["cobblemon:pokemon/megagengar/megagengar"]
+  },
+  
+  "solrock": {
+       "sounds": ["cobblemon:pokemon/solrock/solrock"]
+  },
+  "lunatone": {
+       "sounds": ["cobblemon:pokemon/lunatone/lunatone"]
+  },
+
+  "gible": {
+       "sounds": ["cobblemon:pokemon/gible/gible"]
+  },
+  "gabite": {
+       "sounds": ["cobblemon:pokemon/gabite/gabite"]
+  },
+  "garchomp": {
+       "sounds": ["cobblemon:pokemon/garchomp/garchomp"]
+  },
+  "mudkip": {
+       "sounds": ["cobblemon:pokemon/mudkip/mudkip"]
+  },
+  "marshtomp": {
+       "sounds": ["cobblemon:pokemon/marshtomp/marshtomp"]
+  },
+  "swampert": {
+       "sounds": ["cobblemon:pokemon/swampert/swampert"]
+  },
+  "kangaskhan": {
+       "sounds": ["cobblemon:pokemon/kangaskhan/kangaskhan"]
+  },
+  "megakangaskhan": {
+       "sounds": ["cobblemon:pokemon/megakangaskhan/megakangaskhan"]
+  },
+  "kangaskhanbaby": {
+       "sounds": ["cobblemon:pokemon/kangaskhan/kangaskhanbaby"]
+  }, 
+
+  "stunfisk": {
+       "sounds": ["cobblemon:pokemon/stunfisk/stunfisk"]
+  }
+}
